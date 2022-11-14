@@ -7,6 +7,7 @@ O projeto Docker Todo List proposto pela Trybe consistia em utilizar a linha de 
 <br/>
 <br/>
 <br/>
+<br/>
 
 - Os arquivos na pasta docker-commands com a extensão `.dc` foram os comandos que escrevi para cumprir com as demandas dos requisitos do projeto.
 - As `Dockerfiles` encontradas em cada pasta de frontend, backend e tests foram escritas por mim, seguindo as orientações de descompactar o arquivo `node_modules.tar.gz` e expor as ports devidas.
