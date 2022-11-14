@@ -1,6 +1,6 @@
 # project todo list - trybe
 
-<img src="https://media.tenor.com/CzpghL1UjyAAAAAj/kstr-kochstrasse.gif" width="240px" align="left" />
+<img src="https://media.tenor.com/CzpghL1UjyAAAAAj/kstr-kochstrasse.gif" width="220px" align="left" />
 
 O projeto Docker Todo List proposto pela Trybe consistia em utilizar a linha de comando do Docker para orientar ações da criação e interação com containers, além de editar as Dockerfiles do frontend, backend e testes do projeto. Como requisito bônus a sugestão foi a criação do arquivo `docker-compose.yml` para orquestrar as interações entre todas as Dockerfiles criadas.
 
